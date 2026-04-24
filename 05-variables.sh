@@ -7,4 +7,4 @@ echo "script executed at $END_TIME"
 
 TOTAL_TIME=$(($START_TIME-$ENDTIME))
 
-echo " sript exeuted in :$TOTAL_TIME 
+echo " sript exeuted in :$TOTAL_TIME"
